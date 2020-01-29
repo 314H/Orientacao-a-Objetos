@@ -1,0 +1,6 @@
+C:\Users\FBASOFTWARE\source\repos\Classe Estatica\bin\Debug\Classe Estatica.exe.config
+C:\Users\FBASOFTWARE\source\repos\Classe Estatica\bin\Debug\Classe Estatica.exe
+C:\Users\FBASOFTWARE\source\repos\Classe Estatica\bin\Debug\Classe Estatica.pdb
+C:\Users\FBASOFTWARE\source\repos\Classe Estatica\obj\Debug\Classe Estatica.csprojAssemblyReference.cache
+C:\Users\FBASOFTWARE\source\repos\Classe Estatica\obj\Debug\Classe Estatica.exe
+C:\Users\FBASOFTWARE\source\repos\Classe Estatica\obj\Debug\Classe Estatica.pdb
