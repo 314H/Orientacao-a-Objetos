@@ -1,0 +1,7 @@
+D:\Exercicios - Cursos\POO\POO - JAVA, C#, PYTHON, PHP E JAVASCRIPT\Exercicios\Código\Encapsulamento\Encapsulamento_POO\bin\Debug\Encapsulamento_POO.exe.config
+D:\Exercicios - Cursos\POO\POO - JAVA, C#, PYTHON, PHP E JAVASCRIPT\Exercicios\Código\Encapsulamento\Encapsulamento_POO\bin\Debug\Encapsulamento_POO.exe
+D:\Exercicios - Cursos\POO\POO - JAVA, C#, PYTHON, PHP E JAVASCRIPT\Exercicios\Código\Encapsulamento\Encapsulamento_POO\bin\Debug\Encapsulamento_POO.pdb
+D:\Exercicios - Cursos\POO\POO - JAVA, C#, PYTHON, PHP E JAVASCRIPT\Exercicios\Código\Encapsulamento\Encapsulamento_POO\obj\Debug\Encapsulamento_POO.csprojAssemblyReference.cache
+D:\Exercicios - Cursos\POO\POO - JAVA, C#, PYTHON, PHP E JAVASCRIPT\Exercicios\Código\Encapsulamento\Encapsulamento_POO\obj\Debug\Encapsulamento_POO.csproj.CoreCompileInputs.cache
+D:\Exercicios - Cursos\POO\POO - JAVA, C#, PYTHON, PHP E JAVASCRIPT\Exercicios\Código\Encapsulamento\Encapsulamento_POO\obj\Debug\Encapsulamento_POO.exe
+D:\Exercicios - Cursos\POO\POO - JAVA, C#, PYTHON, PHP E JAVASCRIPT\Exercicios\Código\Encapsulamento\Encapsulamento_POO\obj\Debug\Encapsulamento_POO.pdb

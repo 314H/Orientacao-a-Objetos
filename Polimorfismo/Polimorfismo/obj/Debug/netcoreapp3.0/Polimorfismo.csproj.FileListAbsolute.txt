@@ -1,0 +1,11 @@
+D:\BACKUPS\Exercicios - Cursos\POO\POO - JAVA, C#, PYTHON, PHP E JAVASCRIPT\Exercicios\Código\Polimorfismo\Polimorfismo\bin\Debug\netcoreapp3.0\Polimorfismo.exe
+D:\BACKUPS\Exercicios - Cursos\POO\POO - JAVA, C#, PYTHON, PHP E JAVASCRIPT\Exercicios\Código\Polimorfismo\Polimorfismo\bin\Debug\netcoreapp3.0\Polimorfismo.deps.json
+D:\BACKUPS\Exercicios - Cursos\POO\POO - JAVA, C#, PYTHON, PHP E JAVASCRIPT\Exercicios\Código\Polimorfismo\Polimorfismo\bin\Debug\netcoreapp3.0\Polimorfismo.runtimeconfig.json
+D:\BACKUPS\Exercicios - Cursos\POO\POO - JAVA, C#, PYTHON, PHP E JAVASCRIPT\Exercicios\Código\Polimorfismo\Polimorfismo\bin\Debug\netcoreapp3.0\Polimorfismo.runtimeconfig.dev.json
+D:\BACKUPS\Exercicios - Cursos\POO\POO - JAVA, C#, PYTHON, PHP E JAVASCRIPT\Exercicios\Código\Polimorfismo\Polimorfismo\bin\Debug\netcoreapp3.0\Polimorfismo.dll
+D:\BACKUPS\Exercicios - Cursos\POO\POO - JAVA, C#, PYTHON, PHP E JAVASCRIPT\Exercicios\Código\Polimorfismo\Polimorfismo\bin\Debug\netcoreapp3.0\Polimorfismo.pdb
+D:\BACKUPS\Exercicios - Cursos\POO\POO - JAVA, C#, PYTHON, PHP E JAVASCRIPT\Exercicios\Código\Polimorfismo\Polimorfismo\obj\Debug\netcoreapp3.0\Polimorfismo.csprojAssemblyReference.cache
+D:\BACKUPS\Exercicios - Cursos\POO\POO - JAVA, C#, PYTHON, PHP E JAVASCRIPT\Exercicios\Código\Polimorfismo\Polimorfismo\obj\Debug\netcoreapp3.0\Polimorfismo.AssemblyInfoInputs.cache
+D:\BACKUPS\Exercicios - Cursos\POO\POO - JAVA, C#, PYTHON, PHP E JAVASCRIPT\Exercicios\Código\Polimorfismo\Polimorfismo\obj\Debug\netcoreapp3.0\Polimorfismo.AssemblyInfo.cs
+D:\BACKUPS\Exercicios - Cursos\POO\POO - JAVA, C#, PYTHON, PHP E JAVASCRIPT\Exercicios\Código\Polimorfismo\Polimorfismo\obj\Debug\netcoreapp3.0\Polimorfismo.dll
+D:\BACKUPS\Exercicios - Cursos\POO\POO - JAVA, C#, PYTHON, PHP E JAVASCRIPT\Exercicios\Código\Polimorfismo\Polimorfismo\obj\Debug\netcoreapp3.0\Polimorfismo.pdb
